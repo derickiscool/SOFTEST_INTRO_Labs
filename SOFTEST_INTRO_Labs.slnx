@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="OFTEST_INTRO_Calculator.AcceptanceTe/SOFTEST_INTRO_Calculator.AcceptanceTests.csproj" Id="941bc2d3-5efd-403f-8973-325e610ee49b" />
+  <Project Path="SOFTEST_INTRO_Calculator.IntegrationTests/SOFTEST_INTRO_Calculator.IntegrationTests.csproj" Id="f3194b6b-3031-4c11-9531-3a5129d79151" />
   <Project Path="SOFTEST_INTRO_Calculator.UnitTests/SOFTEST_INTRO_Calculator.UnitTests.csproj" />
   <Project Path="SOFTEST_INTRO_Calculator/SOFTEST_INTRO_Calculator.csproj" />
 </Solution>
