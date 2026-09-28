@@ -15,13 +15,13 @@ jobs:
       with:
         dotnet-version: '10.0.x'
     - name: Restore dependencies
-      run: dotnet restore SOFTEST_INTRO_Labs.sln
+      run: dotnet restore SOFTEST_INTRO_Labs.slnx
     - name: Build solution
       run: >
-        dotnet build SOFTEST_INTRO_Labs.sln
+        dotnet build SOFTEST_INTRO_Labs.slnx
         --configuration Release --no-restore
     - name: Run all tests
       run: >
-        dotnet test SOFTEST_INTRO_Labs.sln
+        dotnet test SOFTEST_INTRO_Labs.slnx
         --configuration Release --no-build
         --verbosity normal
