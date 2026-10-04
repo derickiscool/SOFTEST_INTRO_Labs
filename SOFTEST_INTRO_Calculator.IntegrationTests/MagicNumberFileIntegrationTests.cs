@@ -48,3 +48,5 @@ public sealed class MagicNumberFileIntegrationTests
             Throws.TypeOf<ArgumentOutOfRangeException>());
         }
 }
+
+
