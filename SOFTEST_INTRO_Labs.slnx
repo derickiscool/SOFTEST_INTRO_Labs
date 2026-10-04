@@ -2,5 +2,7 @@
   <Project Path="OFTEST_INTRO_Calculator.AcceptanceTe/SOFTEST_INTRO_Calculator.AcceptanceTests.csproj" Id="941bc2d3-5efd-403f-8973-325e610ee49b" />
   <Project Path="SOFTEST_INTRO_Calculator.IntegrationTests/SOFTEST_INTRO_Calculator.IntegrationTests.csproj" Id="f3194b6b-3031-4c11-9531-3a5129d79151" />
   <Project Path="SOFTEST_INTRO_Calculator.UnitTests/SOFTEST_INTRO_Calculator.UnitTests.csproj" />
+  <Project Path="SOFTEST_INTRO_Calculator.Web/SOFTEST_INTRO_Calculator.Web.csproj" Id="b428c112-8906-46c5-8534-69017bb0f75d" />
+  <Project Path="SOFTEST_INTRO_Calculator.WebUiTests/SOFTEST_INTRO_Calculator.WebUiTests.csproj" Id="372887fb-1ae2-4dae-9acc-219c366cebd8" />
   <Project Path="SOFTEST_INTRO_Calculator/SOFTEST_INTRO_Calculator.csproj" />
 </Solution>
